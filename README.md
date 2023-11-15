@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Said abderrahmane</h1>
-<h3 align="center">A passionate full stack developer from Algeria</h3>
-<h3 align="center">Please feel free to say hi!</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidabderrahmane" alt="saidabderrahmane" /></a> </p>
+<h1 align="left">Hi 👋, I'm Said abderrahmane</h1>
+<h3 align="left">A passionate full stack developer from Algeria</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Please feel free to say hi:</p>
 <p align="left">
 <a href="https://linkedin.com/in/saidabderrahmane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidabderrahmane" height="30" width="40" /></a>
 </p>
